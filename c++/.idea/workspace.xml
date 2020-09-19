@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd1f0c40-bfc4-489e-b5d8-afa9baca8635" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h2edgNetTAYGI1ow5e3g6Q9xbs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd1f0c40-bfc4-489e-b5d8-afa9baca8635" name="Default Changelist" comment="" />
+      <created>1599213702751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599213702751</updated>
+      <workItem from="1599213703935" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599213765496">
+      <screen x="75" y="0" width="1291" height="768" />
+    </state>
+    <state x="174" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/75.0.1291.768@75.0.1291.768" timestamp="1599213765496" />
+    <state x="439" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599213716197">
+      <screen x="75" y="0" width="1291" height="768" />
+    </state>
+    <state x="439" y="185" key="#com.intellij.fileTypes.FileTypeChooser/75.0.1291.768@75.0.1291.768" timestamp="1599213716197" />
+  </component>
+</project>
