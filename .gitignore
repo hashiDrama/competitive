@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# eclipse files
+.classpath
+.project
+.settings/*
+
+# intelliJ files
+.idea/
+**/.idea/
